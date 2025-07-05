@@ -1,4 +1,3 @@
-## Cognifyz Data Analysis Internship 
 ### Level 1 Tasks
 1. **Data Exploration and Preprocessing**  
    - Examined dataset structure and missing values  
