@@ -38,7 +38,7 @@
 ## Repository Structure
 
 ```
-cognifyz/
+Restaurant_Ratings_and_Services_Analysis/
 │
 ├── restaurant.csv          # Dataset containing restaurant data
 ├── level1.ipynb            # Jupyter notebook for Level 1 tasks
